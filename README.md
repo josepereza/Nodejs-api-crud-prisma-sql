@@ -1,4 +1,6 @@
 # Nodejs-api-crud-prisma-sql
+## Recursos
+* https://www.prisma.io/express
 ## Adaptacion para mysql
 * npm install prisma --save-dev
 * crear un .env file en el directorio root del proyecto
